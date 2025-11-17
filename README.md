@@ -12,6 +12,7 @@ Using **JavaScript for loops** to dynamically generate repeated content on a web
 - Format a webpage using simple **HTML/CSS**  
 - Debug basic loop-based logic  
 
+[Demo](https://output.jsbin.com/degimow): [Link](https://output.jsbin.com/degimow)
 
 ## 📋 Project Requirements
 
