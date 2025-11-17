@@ -1,6 +1,6 @@
-# 99 ___ of ___ on/in the ___
+# Web Design Mini-Project (For Loop Review)
 
-## Web Design Mini-Project (For Loop Review)
+## 99 ___ of ___ on/in the ___
 
 
 ## 🎯 Project Objective
@@ -21,6 +21,13 @@ Using **JavaScript for loops** to dynamically generate repeated content on a web
 - ***ADVANCED:*** switch 
 
 ## Steps
+
+### Create your
+- [ ] index.html
+- [ ] style.css
+- [ ] script.js
+- [ ] link to the **style.css** and **script.js** in the index.html
+
 
 ### 0. Select Title/Song:
 - Select a theme from this document: 
