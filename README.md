@@ -1,28 +1,68 @@
-# 🥛 99 Bottles of Milk on the Wall  
+# 99 ___ of ___ on/in the ___
+
 ## Web Design Mini-Project (For Loop Review)
 
----
 
 ## 🎯 Project Objective
-Students will practice using **JavaScript for loops** to dynamically generate repeated content on a webpage. By the end of this project, students should be able to:
+
+Using **JavaScript for loops** to dynamically generate repeated content on a webpage. Should be able to:
 
 - Understand how **for loops** control repetition in code  
-- Output changing text to a webpage using **JavaScript + DOM** or basic `document.write()`  
+- Output changing text to a webpage using **JavaScript + DOM**  
 - Format a webpage using simple **HTML/CSS**  
 - Debug basic loop-based logic  
 
----
 
 ## 📋 Project Requirements
 
-### 1. Create a webpage with:
-- A title: **“99 Bottles of Milk on the Wall”** 🥛🎶  
-- A background color or image 🎨  
-- At least one relevant emoji (milk, bottle, music, etc.)  
+- for-loop
+- conditionals (if / if-else) 
+- min of 2 divs
+- ***ADVANCED:*** switch 
 
----
+## Steps
+
+### 0. Select Title/Song:
+- Select a theme from this document: 
+    [Link](https://docs.google.com/document/d/19Ac2Hf9bNEueFeHUPgW1-vrG1mFczANjl3hs7Yw9yk8/edit?usp=sharing)
+
+
+### 1. Create a webpage with:
+- A title: **“99 ___ of ____ on/in the _____”** 🥛🎶  
+- A background color or image 🎨  
+- Use the relevant emoji for the title 
 
 ### 2. Use JavaScript to:
 - Write a **for loop** that counts down from **99 to 0**  
 - Output each line of the song in the following format:
 
+```
+99 ___ of ___ on/in the ___, 99 ___ of ____!  
+Take one down, pass it around…  
+98 ___ of ___ on/in the ____!
+```
+
+### 3. Display the lyrics on your webpage
+- Use `<p>` tags or dynamically insert elements via JavaScript  
+- Add CSS styling for readability (font, size, spacing)
+
+
+### 4. Color changes when the supplies gets low
+- 99 to 25 the color is green
+- 24 to 10 the color is yellow
+- 9 to 1 the color is red
+- 0 print the message 
+```
+‼️ There's no more ___ of ___ on/in the ___, there's no more ___ of ___. <user emotion> Help me now, <running action> to the ___ to get/buy 99 ____ of ___.
+```
+
+- Ensure grammar changes correctly:
+  - Use **“1** for singular instead of **“1's** plural
+
+---
+
+## 💡 Bonus Challenges (Optional)
+
+- Add a button that **starts/stops** the song ▶️⏹️  
+- Display a **emoji** as much of the song as possible that still makes sense.  
+- Add a **fade-out animation** when the number gets low ✨  
